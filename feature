@@ -1,2 +1,1 @@
-feature4
-
+feature6 from feature 6
